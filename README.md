@@ -3,5 +3,5 @@
 I am Karina Takhautdinova student of ITMO University
 ### About repo
 This repo is for ITMO java course
-###Authors
+### Authors:
 Karina
